@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" target="blank" align="center" height="100"/>
+<h1><img src="https://cdn-icons-png.flaticon.com/512/253/253503.png"/> WebDev</h1>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" target="blank" align="center" height="60" width="60"/>
