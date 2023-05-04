@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1><img src="https://cdn-icons-png.flaticon.com/512/253/253503.png" height="30" width="30"/> Frontend</h1>
+<h1><img src="https://cdn-icons-png.flaticon.com/512/253/253503.png" height="30" width="35"/> Frontend</h1>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" target="blank" align="center" height="60" width="60"/>
