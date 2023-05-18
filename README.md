@@ -23,4 +23,5 @@ Here are some ideas to get you started:
  </div>
  <div>
  <h1>Backend</h1>
+ <span><img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" target="blank" align="center" height="57" width="57"/></span>
  </div>
